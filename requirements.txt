@@ -1,8 +1,8 @@
 #Github.com-Vasusen-code
 
-https://github.com/New-dev0/Telethon/archive/vector.zip #Until telethon update
+git+https://github.com/New-dev0/Telethon/tree/Vector #Until telethon update
 
-ethon==1.3.5
+ethon==1.3.6
 cryptg
 tgcrypto
 pyrogram
